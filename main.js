@@ -1,4 +1,4 @@
-import { initGlobe } from './globe.js?v=6';
+import { initGlobe } from './globe.js?v=7';
 
 const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
 

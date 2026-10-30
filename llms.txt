@@ -1,0 +1,32 @@
+# Invostax
+
+> Invostax is a software studio led by Waqas Rafiq. It designs, builds and runs its own products across business systems, AI and automation, messaging and payments, mobile apps, and the web, and takes on a few outside projects a year. Contact: hello@invostax.tech
+
+## Business systems
+- Invostax Pro: trading ERP from first enquiry to balance sheet (quotes, purchasing, receiving, delivery, VAT invoicing, Odoo-synced ledger). Live in production.
+- Invostax GMS: garage management with photo-backed repair approvals, bay map, labour timers and fleet statements.
+- Invostax CarWash: bays, jobs and bilingual (English/Arabic) invoices for car washes.
+- Books Doctor: Odoo app that runs nightly checks on stock-vs-ledger gaps and unbilled receipts.
+- Invostax Lite: simple invoicing that sends late-payment reminders.
+
+## AI and automation
+- Invostax Converter: turns photos, handwriting, scanned PDFs and chat messages into clean spreadsheets using two OCR engines.
+- Marketing agent: scripts, voices, renders and posts short product videos after one-tap approval.
+- Odoo AI gateway: an Odoo add-on plus an MCP connector, so AI agents can work inside Odoo safely.
+- Job scout: finds jobs, scores the fit against a CV, drafts the application.
+- Market agents: trading strategies competing in a simulated market.
+
+## Messaging and payments
+- ChatDesk: self-hosted shared WhatsApp inbox that sends invoices and chases payment.
+
+## Mobile
+- Invoice Maker: offline Android invoice app, no account needed.
+- Bit's Brain: Android app that teaches children aged 5 to 10 how AI works.
+
+## Web and data
+- Invostax Tools: free everyday tools that run in the browser.
+- Business websites: fast, mobile-first, bilingual websites for local businesses.
+- Smart Analyzer: Excel tool that compares monthly project trackers and flags what slipped.
+
+## Stack
+React, Node, Laravel, Python, PostgreSQL, Odoo, Capacitor, three.js, LLM agents, OCR.
